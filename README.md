@@ -1,6 +1,6 @@
 ## Olá a todos
 
-Meu nome é Lucas Alves, tenho 19 anos. Resido em São José dos Campos, SP, Brasil, e meu objetivo é aprofundar ainda mais nessa vasta área de programação.
+Meu nome é Lucas Alves, tenho 19 anos. Resido em São José dos Campos, SP, Brasil, e meu objetivo é adquirir mais conhecimentos e aprofundar-me ainda mais nessa vasta área da programação.
 
 Atualmente estou fazendo um curso técnico de Análise e Desenvolvimentos de Sistemas, na ETEC.
 
