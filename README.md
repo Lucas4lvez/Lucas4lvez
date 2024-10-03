@@ -6,6 +6,12 @@ Atualmente estou fazendo um curso técnico de Análise e Desenvolvimentos de Sis
 
 Possuo uma pequena experiência na área de T.I, como crimpar cabos de rede, configurar dispositivos PTP (point-to-point) como Nano, Rocket, mexer com redes, configurar IP, desenvolver, atualizar e supervisionar sites criados por mim, etc. Essa experiência veio em decorrência do serviço militar obrigátorio em Caçapava, SP, onde eu fui designado para a área de informática e consequentemente, desenvolvi essas competências.
 
+Além da especialização técnica estou cursando, possuo:
+
+- Curso de criação de site no padrão E-Gov pelo JOOMLA
+- Curso de Inglês básico
+- Curso de cybersegurança da CISCO
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
