@@ -1,7 +1,10 @@
-## Olá eu sou Lucas Alves
+## Olá a todos
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Meu nome é Lucas Alves, tenho 19 anos. Resido em São José dos Campos, SP, Brasil, e meu objetivo é aprofundar ainda mais nessa vasta área de programação.
+
+Atualmente estou fazendo um curso técnico de Análise e Desenvolvimentos de Sistemas, na ETEC.
+
+Possuo uma pequena experiência na área de T.I, como crimpar cabos de rede, configurar dispositivos PTP (point-to-point) como Nanos, Rockets, mexer com redes, configurar ips, desenvolver, atualizar e supervisionar sites criados por mim, etc. Essa experiência veio em decorrência do serviço militar obrigátorio em Caçapava, SP, onde eu fui designado para a área de informática e consequentemente desenvolvi essas competências.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
