@@ -4,7 +4,7 @@ Meu nome é Lucas Alves, tenho 19 anos. Resido em São José dos Campos, SP, Bra
 
 Atualmente estou fazendo um curso técnico de Análise e Desenvolvimentos de Sistemas, na ETEC.
 
-Possuo uma pequena experiência na área de T.I, como crimpar cabos de rede, configurar dispositivos PTP (point-to-point) como Nano, Rocket, mexer com redes, configurar IP, desenvolver, atualizar e supervisionar sites criados por mim, etc. Essa experiência veio em decorrência do serviço militar obrigátorio em Caçapava, SP, onde eu fui designado para a área de informática e consequentemente, desenvolvi essas competências.
+Possuo certa experiência na área de T.I, como crimpar cabos de rede, configurar dispositivos PTP (point-to-point) como Nano, Rocket, mexer com redes, configurar IP, desenvolver, atualizar e supervisionar sites, etc. Essa experiência veio em decorrência do ano de serviço militar obrigátorio em Caçapava, SP, onde eu fui designado para a área de informática e consequentemente, desenvolvi essas competências.
 
 Além da especialização técnica que ainda estou cursando, possuo as seguintes certificações:
 
