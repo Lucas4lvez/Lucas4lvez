@@ -10,7 +10,6 @@ Além da especialização técnica que ainda estou cursando, possuo as seguintes
 
 - Curso de criação de site no padrão E-Gov pelo JOOMLA
 - Curso de Inglês básico
-- Curso de cybersegurança da CISCO
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
