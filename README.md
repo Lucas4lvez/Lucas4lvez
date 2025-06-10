@@ -2,7 +2,7 @@
 
 Meu nome é Lucas Alves, tenho 20 anos e resido em São José dos Campos, SP, Brasil.
 
-Adquiri competências como configurar dispositivos PTP (point-to-point) como Nano, Rocket, mexer com redes, configurar IP, desenvolver, atualizar e supervisionar sites, etc, em decorrência do ano de serviço militar obrigátorio em Caçapava, SP, onde eu fui designado para a área de informática.
+Adquiri competências como configurar dispositivos PTP (point-to-point) como Nano, Rocket, mexer com redes, configurar IP, desenvolver, atualizar e supervisionar sites, etc, em decorrência do Serviço Militar Obrigátorio em Caçapava, SP, durante o ano de 2024, onde eu fui designado para a área de informática.
 
 Outra expêriencia que posso ressaltar, foi meu período de estágio de três meses em Análise de Suporte Técnico na empresa CompVale. Lá exercia a função de categorizar chamados via plataforma Milvus, realizar atendimentos em menor escala com clientes via ligação, utilizando a plataforma Anydesk, e também exercia trabalhos em bancada como formatação e backup de Computadores e Notebooks, upgrade e download de programas necessários.
 
