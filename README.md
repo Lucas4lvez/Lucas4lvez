@@ -1,15 +1,23 @@
 ## Olá a todos
 
-Meu nome é Lucas Alves, tenho 19 anos e resido em São José dos Campos, SP, Brasil.
+Meu nome é Lucas Alves, tenho 20 anos e resido em São José dos Campos, SP, Brasil.
 
-Atualmente estou fazendo um curso técnico de Análise e Desenvolvimentos de Sistemas, na ETEC.
+Adquiri competências como configurar dispositivos PTP (point-to-point) como Nano, Rocket, mexer com redes, configurar IP, desenvolver, atualizar e supervisionar sites, etc, em decorrência do ano de serviço militar obrigátorio em Caçapava, SP, onde eu fui designado para a área de informática.
 
-Possuo certa experiência na área de T.I, como por exemplo, configurar dispositivos PTP (point-to-point) como Nano, Rocket, mexer com redes, configurar IP, desenvolver, atualizar e supervisionar sites, etc. Essa experiência veio em decorrência do ano de serviço militar obrigátorio em Caçapava, SP, onde eu fui designado para a área de informática.
+Outra expêriencia que posso ressaltar, foi meu período de estágio de três meses em Análise de Suporte Técnico na empresa CompVale. Lá exercia a função de categorizar chamados via plataforma Milvus, realizar atendimentos em menor escala com clientes via ligação, utilizando a plataforma Anydesk, e também exercia trabalhos em bancada como formatação e backup de Computadores e Notebooks, upgrade e download de programas necessários.
 
-Além da especialização técnica que ainda estou cursando, possuo as seguintes certificações:
+Possuo a formação técnica em Desenvolvimento de Sistemas, cursado na ETEC Ilza Nascimento Pintus.
+
+Certificações:
 
 - Curso de criação de site no padrão E-Gov pelo JOOMLA
-- Curso de Inglês básico
+- Curso de Inglês básico do Centro Paula Souza
+- Carta de recomendação do Exército Brasileiro
+- Certificado de Honra ao Mérito
+- Referência Elogiosa deferida por um Major do Exército Brasileiro, por conta de um alto desempenho exercido em uma missão
+- Curso de Introdução à Cybersegurança da CISCO
+- Carta de recomendação dos coordenadores responsáveis da ETEC, por conta de ter sido vencedor de um "Hackaton"
+- Certificado de Técnico em Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
