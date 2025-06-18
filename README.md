@@ -16,7 +16,6 @@ Certificações:
 - Certificado de Honra ao Mérito
 - Referência Elogiosa deferida por um Major do Exército Brasileiro, por conta de um alto desempenho exercido em uma missão
 - Curso de Introdução à Cybersegurança da CISCO
-- Carta de recomendação dos coordenadores responsáveis da ETEC, por conta de ter sido vencedor de um "Hackaton"
 - Certificado de Técnico em Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
